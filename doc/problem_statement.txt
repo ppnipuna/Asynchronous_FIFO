@@ -1,7 +1,6 @@
-LAB #02 : Development of Verification TestBench for
+Development of Verification TestBench for
 Asynchronous FIFO
-Due on April 7th, before 11:59 pm
-CSE 591: Advanced Hardware Design & Verification
+
 
 Background:
 Shorter time-to-market requirements and verification of complex designs have led to the
