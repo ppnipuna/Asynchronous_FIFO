@@ -1,0 +1,1 @@
+The details of the project are contained in the /doc folder. It contains the problem statement and the report.
